@@ -1,0 +1,54 @@
+.header{
+    text-align: center;
+}
+#top{
+    text-decoration: underline;
+}
+.emphasis{
+    font-weight: bold;
+}
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.main{
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}
+.tp{
+    color: black;
+    background-color: cornflowerblue;
+    height: 100px;
+}
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.toppage{
+    color: black;
+    text-align: center;
+}
+.res{
+    color: black;
+}
